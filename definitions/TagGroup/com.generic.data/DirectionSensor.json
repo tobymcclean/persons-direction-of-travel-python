@@ -1,0 +1,35 @@
+[
+    {
+        "name":"DirectionSensor",
+        "context":"com.generic.data",
+        "qosProfile":"event",
+        "version":"v1.0",
+        "description":"An observation which is the direction relative to a camera",
+        "tags":[
+            {
+                "name":"class_id",
+                "description":"Detected object's classification type as raw id",
+                "kind":"INT32",
+                "unit":""
+            },
+            {
+                "name":"class_label",
+                "description":"Detected object's classification as proper name",
+                "kind":"STRING",
+                "unit":""
+            },
+            {
+                "name":"id",
+                "description":"The identity of the person",
+                "kind":"INT32",
+                "unit":""
+            },
+            {
+                "name":"direction",
+                "description":"The direction of the person",
+                "kind":"STRING",
+                "unit":""
+            }
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+{
+    "id": "_AUTO_",
+    "classId": "DirectionOfTravelSensor:com.adlinktech.solution:v1.0",
+    "contextId": "adlink.canada.directionsensor.1",
+    "description": "Senses the direction persons are moving in a camera's field of view."
+}

@@ -1,0 +1,1 @@
+Directory contains the configuration files for the ADLINK Intel Deep Learning Streamer application.
